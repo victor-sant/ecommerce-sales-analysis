@@ -128,7 +128,7 @@ ecommerce-sales-analysis
 
 # Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](ecommerce-sales-analysis/images/dashboard.png)
 
 ---
 
