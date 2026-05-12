@@ -134,4 +134,4 @@ ecommerce-sales-analysis
 
 # Modelo Star Schema
 
-![Modelo](images/modelo.png)
+![Modelo](ecommerce-sales-analysis/images/modelo.png)
